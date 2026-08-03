@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Hi%20There,%20I'm%20Radhika%20Gupta%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A2647&height=180&section=header&text=Hi%20There,%20I'm%20Radhika%20Gupta%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+Full+Stack+Web+Applications;Exploring+AI+%2F+ML+%2F+LLMs;Pursuing+MCA+at+Galgotias+University;Turning+Ideas+Into+Code;Open+to+Collaboration&font=Fira+Code&center=true&width=480&height=35&duration=3000&pause=800&color=A020F0&vCenter=true&size=17" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Full+Stack+Web+Applications;Exploring+AI+%2F+ML+%2F+LLMs;Pursuing+MCA+at+Galgotias+University;Turning+Ideas+Into+Code;Open+to+Collaboration&font=Fira+Code&center=true&width=480&height=35&duration=3000&pause=800&color=2C74B3&vCenter=true&size=17" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:radhikagupta667788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/radhika-gupta-0b15483b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://radhikagupta667788-rgb.github.io/Radhika-Gupta/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://radhikagupta667788-rgb.github.io/Radhika-Gupta/"><img src="https://img.shields.io/badge/Portfolio-205295?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Greater%20Noida%2C%20India-000000?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=radhikagupta667788-rgb&color=a020f0&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=radhikagupta667788-rgb&color=0A2647&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -59,8 +59,8 @@
 
 **AI / Tools**
 <br/>
-![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/-Machine%20Learning-0A2647?style=flat-square&logo=tensorflow&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-144272?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -76,10 +76,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-4285F4?style=flat-square&logo=scikitlearn&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Systems-412991?style=flat-square&logo=openai&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-2496ED?style=flat-square&logo=cachet&logoColor=white)
+![AI](https://img.shields.io/badge/AI-0A2647?style=flat-square&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-2C74B3?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20Systems-144272?style=flat-square&logo=openai&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-2C74B3?style=flat-square&logo=cachet&logoColor=white)
 
 </div>
 
@@ -96,7 +96,7 @@ Full-stack AI mentor for engineering students — coding help, debugging, interv
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![AI](https://img.shields.io/badge/-AI%20Powered-412991?style=flat-square&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/-AI%20Powered-144272?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -135,12 +135,12 @@ keep building, keep shipping!
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=radhikagupta667788-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikagupta667788-rgb&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=radhikagupta667788-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=radhikagupta667788-rgb&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikagupta667788-rgb&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhikagupta667788-rgb&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -151,7 +151,7 @@ keep building, keep shipping!
 
 [![Gmail](https://img.shields.io/badge/radhikagupta667788%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radhikagupta667788@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Radhika%20Gupta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhika-gupta-0b15483b2/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://radhikagupta667788-rgb.github.io/Radhika-Gupta/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-205295?style=flat-square&logo=googlechrome&logoColor=white)](https://radhikagupta667788-rgb.github.io/Radhika-Gupta/)
 
 </div>
 
@@ -161,6 +161,6 @@ keep building, keep shipping!
 
 <a href="#hi-there-im-radhika-gupta-">⬆️ Back to Top</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,100:000000&height=90&section=footer" width="100%"/>
 
 </div>
